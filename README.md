@@ -15,13 +15,13 @@
 
 - 🔭 I’m currently working on **Delivery apps**
 
-- 🌱 I’m currently learning **Advanced Flutter state management techniques and backend integrations**
+- 🌱 I’m currently learning **Advanced Flutter state management techniques, clean architecture and  backend integrations**
 
 - 👯 I’m looking to collaborate on **Flutter Open Source Projects**
 
 - 🤝 I’m looking for help with **Building Flutter Plugins**
 
-- 💬 Ask me about **Flutter, Dart, Java, Provider**
+- 💬 Ask me about **Flutter, Dart, Java, Provider **
 
 - 📫 How to reach me **bereketrezenom@gmail.com**
 
