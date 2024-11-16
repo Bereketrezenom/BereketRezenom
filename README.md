@@ -13,7 +13,7 @@
 
 </p>
 
-- 🔭 I’m currently working on **Delivery apps**
+- 🔭 I’m currently working on **Flutter**
 
 - 🌱 I’m currently learning **Advanced Flutter state management techniques, clean architecture and  backend integrations**
 
