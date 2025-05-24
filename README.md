@@ -9,19 +9,15 @@
   <img src="https://komarev.com/ghpvc/?username=bereketrezenom&label=Profile%20views&color=0e75b6&style=flat" alt="bereketrezenom" /> 
 </p>
 
-<p align="left"> 
-
-</p>
-
 - 🔭 I’m currently working on **Flutter**
 
-- 🌱 I’m currently learning **Advanced Flutter state management techniques, clean architecture and  backend integrations**
+- 🌱 I’m currently learning **Advanced Flutter state management techniques, clean architecture and backend integrations**
 
 - 👯 I’m looking to collaborate on **Flutter Open Source Projects**
 
 - 🤝 I’m looking for help with **Building Flutter Plugins**
 
-- 💬 Ask me about **Flutter, Dart, Java, Provider **
+- 💬 Ask me about **Flutter, Dart, Java, Provider**
 
 - 📫 How to reach me **bereketrezenom@gmail.com**
 
@@ -29,11 +25,11 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-  <a href="https://twitter.com/https://twitter.com/beckybaaaa" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="https://twitter.com/beckybaaaa" height="30" width="40" />
+  <a href="https://twitter.com/beckybaaaa" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="beckybaaaa" height="30" width="40" />
   </a>
-  <a href="https://instagram.com/https://instagram.com/beki_ba3" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://instagram.com/beki_ba3" height="30" width="40" />
+  <a href="https://instagram.com/beki_ba3" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="beki_ba3" height="30" width="40" />
   </a>
 </p>
 
@@ -107,16 +103,10 @@
   </a> 
 </p>
 
-<p>
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=bereketrezenom&show_icons=true&locale=en" alt="bereketrezenom" />
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=bereketrezenom&show_icons=true&locale=en" alt="bereketrezenom" />
 </p>
 
-
-<p>&nbsp; 
-   <img align="center" src="https://github-readme-stats.vercel.app/api?username=bereketrezenom&show_icons=true&locale=en" alt="bereketrezenom" />
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=bereketrezenom&" alt="bereketrezenom" />
 </p>
-
-<p>
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=bereketrezenom&" alt="bereketrezenom" />
-</p>
-
