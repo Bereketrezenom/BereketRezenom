@@ -103,10 +103,4 @@
   </a> 
 </p>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=bereketrezenom&show_icons=true&locale=en" alt="bereketrezenom" />
-</p>
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=bereketrezenom&" alt="bereketrezenom" />
-</p>
