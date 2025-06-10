@@ -101,16 +101,6 @@
   <a href="https://www.adobe.com/products/xd.html" target="_blank" rel="noreferrer"> 
     <img src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" alt="xd" width="40" height="40"/> 
   </a> 
+   <a href="https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)">
 </p>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=bereketrezenom&show_icons=true&theme=radical&include_all_commits=true&count_private=true" alt="Bereket Rezenom's GitHub Stats" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bereketrezenom&layout=compact&theme=radical&hide=html,css" alt="Top Languages" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=bereketrezenom&theme=radical" alt="GitHub Streak" />
-</p>
