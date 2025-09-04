@@ -1,4 +1,4 @@
-<p align="center">
+ <p align="center">
    <img src="https://i.imgur.com/yourimageid.gif" alt="Cartoon Image">
 </p>
 
@@ -9,19 +9,19 @@
   <img src="https://komarev.com/ghpvc/?username=bereketrezenom&label=Profile%20views&color=0e75b6&style=flat" alt="bereketrezenom" /> 
 </p>
 
-- 🔭 I'm currently working on **Flutter**
+- 🔭 I’m currently working on **Flutter**
 
-- 🌱 I'm currently learning **Advanced Flutter state management techniques, clean architecture and backend integrations**
+- 🌱 I’m currently learning **Advanced Flutter state management techniques, clean architecture and backend integrations**
 
-- 👯 I'm looking to collaborate on **Flutter Open Source Projects**
+- 👯 I’m looking to collaborate on **Flutter Open Source Projects**
 
-- 🤝 I'm looking for help with **Building Flutter Plugins**
+- 🤝 I’m looking for help with **Building Flutter Plugins**
 
 - 💬 Ask me about **Flutter, Dart, Java, Provider**
 
 - 📫 How to reach me **bereketrezenom@gmail.com**
 
-- ⚡ Fun fact **I'm a coffee enthusiast who codes better with caffeine.**
+- ⚡ Fun fact **I’m a coffee enthusiast who codes better with caffeine.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -101,26 +101,5 @@
   <a href="https://www.adobe.com/products/xd.html" target="_blank" rel="noreferrer"> 
     <img src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" alt="xd" width="40" height="40"/> 
   </a> 
-</p>
-
-## 📈 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=bereketrezenom&show_icons=true&locale=en&count_private=true&hide_border=true&theme=default&hide_rank=true&include_all_commits=true" alt="bereketrezenom" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=bereketrezenom&show_icons=true&locale=en&layout=compact&hide_border=true&theme=default" alt="bereketrezenom" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=bereketrezenom&hide_border=true&theme=default" alt="bereketrezenom" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=bereketrezenom&theme=default&hide_border=true&custom_title=GitHub%20Commits%20Activity" alt="bereketrezenom" />
-</p>
-
-<p align="center"> 
-  <img src="https://komarev.com/ghpvc/?username=bereketrezenom&label=Profile%20views&color=0e75b6&style=flat" alt="bereketrezenom" /> 
+   <a href="https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)">
 </p>
