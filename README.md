@@ -32,6 +32,9 @@
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="beki_ba3" height="30" width="40" />
   </a>
 </p>
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=bereketrezenom&theme=onedark" alt="GitHub Trophies" />
+</p>
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
