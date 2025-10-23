@@ -37,7 +37,10 @@
 
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=bereketrezenom&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&mode=weekly&count_private=true" alt="GitHub Streak"/>
+  <img 
+    src="https://github-readme-streak-stats.herokuapp.com/?user=bereketrezenom&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&count_private=true&ring=DD2727&fire=DD2727&currStreakNum=DD2727&currStreakLabel=DD2727&sideNums=DD2727&sideLabels=DD2727&background=0D1117&stroke=DD2727&locale=en&timezone=Africa%2FAddis_Ababa"
+    alt="GitHub Streak"
+  />
 </p>
 
 
