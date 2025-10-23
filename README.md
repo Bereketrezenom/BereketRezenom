@@ -33,7 +33,16 @@
   </a>
 </p>
 <p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=bereketrezenom&show_icons=true&theme=tokyonight" alt="Bereket's GitHub stats" />
+</p>
+
+
+<p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=bereketrezenom&theme=onedark" alt="GitHub Trophies" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=bereketrezenom&theme=tokyonight" alt="GitHub Streak" />
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
