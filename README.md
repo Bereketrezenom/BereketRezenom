@@ -32,23 +32,14 @@
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="beki_ba3" height="30" width="40" />
   </a>
 </p>
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=bereketrezenom&theme=tokyonight" alt="Bereket Rezenom's GitHub Stats"/>
-</p>
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=bereketrezenom&theme=tokyonight" alt="GitHub Profile Summary"/>
-</p>
 
 
 
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=bereketrezenom&theme=onedark" alt="GitHub Trophies" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=bereketrezenom&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&mode=weekly&count_private=true" alt="GitHub Streak"/>
 </p>
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=bereketrezenom&theme=tokyonight" alt="GitHub Streak" />
-</p>
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
