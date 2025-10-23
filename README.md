@@ -36,9 +36,11 @@
 
 
 
+<h3 align="center">🔥 My GitHub Daily Streak 🔥</h3>
+
 <p align="center">
   <img 
-    src="https://github-readme-streak-stats.herokuapp.com/?user=bereketrezenom&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&count_private=true&ring=DD2727&fire=DD2727&currStreakNum=DD2727&currStreakLabel=DD2727&sideNums=DD2727&sideLabels=DD2727&background=0D1117&stroke=DD2727&locale=en&timezone=Africa%2FAddis_Ababa"
+    src="https://github-readme-streak-stats.herokuapp.com/?user=bereketrezenom&theme=tokyonight&hide_border=true&count_private=true&date_format=M%20j%5B%2C%20Y%5D&background=0D1117&locale=en&ring=DD2727&fire=DD2727&currStreakNum=DD2727&currStreakLabel=DD2727&sideNums=DD2727&sideLabels=DD2727&timezone=Africa%2FAddis_Ababa"
     alt="GitHub Streak"
   />
 </p>
