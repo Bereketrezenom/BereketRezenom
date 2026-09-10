@@ -3,7 +3,7 @@
 </p>
 
 <h1 align="center">Hi 👋, I'm Bereket Rezenom</h1>
-<h3 align="center">Full-Stack & Mobile Developer from Ethiopia</h3>
+<h3 align="center">A passionate Full-Stack & Mobile Developer from Ethiopia</h3>
 
 <p align="left"> 
   <img src="https://komarev.com/ghpvc/?username=bereketrezenom&label=Profile%20views&color=0e75b6&style=flat" alt="bereketrezenom" /> 
@@ -16,6 +16,7 @@
 - 💬 Ask me about **Flutter, Dart, React, Django, Flask, Firebase, PostgreSQL, AI/ML**
 - 📫 How to reach me **[bereketrezenom@gmail.com](mailto:bereketrezenom@gmail.com)**
 - ⚡ Fun fact **I'm a coffee enthusiast who codes better with caffeine.**
+- 📄 **[Download My CV](https://bereketrezenom.vercel.app/)**
 
 ---
 
@@ -37,34 +38,18 @@
       </p>
     </td>
     <td width="50%">
-      <h3 align="center">Bella Specialty Dental Clinic</h3>
-      <p align="center">Modern dental clinic website with appointment booking, doctor profiles, gallery, WhatsApp integration, and before/after showcase</p>
+      <h3 align="center">Dr. Habtamu Orthopedics</h3>
+      <p align="center">Professional orthopedic clinic website with appointment booking, doctor profiles, and patient services</p>
       <p align="center">
         <img src="https://img.shields.io/badge/React-19.2.3-61DAFB?style=flat&logo=react" alt="React"/>
         <img src="https://img.shields.io/badge/TypeScript-5.8.2-3178C6?style=flat&logo=typescript" alt="TypeScript"/>
         <img src="https://img.shields.io/badge/Tailwind_CSS-CDN-06B6D4?style=flat&logo=tailwindcss" alt="Tailwind"/>
         <img src="https://img.shields.io/badge/Vite-6.2.0-646CFF?style=flat&logo=vite" alt="Vite"/>
       </p>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%">
-      <h3 align="center">DermaCare Clinic Manager</h3>
-      <p align="center">Full-featured trichology clinic management system with patient records, appointments, diagnosis tracking, and photo management</p>
       <p align="center">
-        <img src="https://img.shields.io/badge/Flask-3.0-000000?style=flat&logo=flask" alt="Flask"/>
-        <img src="https://img.shields.io/badge/SQLite-003B57?style=flat&logo=sqlite" alt="SQLite"/>
-        <img src="https://img.shields.io/badge/Python-3.x-3776AB?style=flat&logo=python" alt="Python"/>
-      </p>
-    </td>
-    <td width="50%">
-      <h3 align="center">MultiVid - Food Delivery Platform</h3>
-      <p align="center">End-to-end food delivery with vendor/courier/admin portals, real-time tracking, and Flutter frontend</p>
-      <p align="center">
-        <img src="https://img.shields.io/badge/Django_REST-4.2-092E20?style=flat&logo=django" alt="Django"/>
-        <img src="https://img.shields.io/badge/Flutter-3.19-02569B?style=flat&logo=flutter" alt="Flutter"/>
-        <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql" alt="PostgreSQL"/>
-        <img src="https://img.shields.io/badge/WebSockets-Real--time-FF6B6B?style=flat" alt="WebSocket"/>
+        <a href="https://www.drhabtamuorthopedics.com" target="_blank">
+          <img src="https://img.shields.io/badge/Live-Site-00C853?style=flat" alt="Live Site"/>
+        </a>
       </p>
     </td>
   </tr>
@@ -98,25 +83,16 @@
   </tr>
   <tr>
     <td width="50%">
-      <h3 align="center">QR Menu (Django Version)</h3>
-      <p align="center">Digital menu system with Django REST backend, admin panel, QR generation, and responsive React frontend</p>
+      <h3 align="center">MultiVid - Food Delivery Platform</h3>
+      <p align="center">End-to-end food delivery with vendor/courier/admin portals, real-time tracking, and Flutter frontend</p>
       <p align="center">
-        <img src="https://img.shields.io/badge/Django-4.2-092E20?style=flat&logo=django" alt="Django"/>
-        <img src="https://img.shields.io/badge/DRF-REST-092E20?style=flat" alt="DRF"/>
-        <img src="https://img.shields.io/badge/React-18-61DAFB?style=flat&logo=react" alt="React"/>
+        <img src="https://img.shields.io/badge/Django_REST-4.2-092E20?style=flat&logo=django" alt="Django"/>
+        <img src="https://img.shields.io/badge/Flutter-3.19-02569B?style=flat&logo=flutter" alt="Flutter"/>
         <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql" alt="PostgreSQL"/>
+        <img src="https://img.shields.io/badge/WebSockets-Real--time-FF6B6B?style=flat" alt="WebSocket"/>
       </p>
     </td>
-    <td width="50%">
-      <h3 align="center">CSF Digital Doorway</h3>
-      <p align="center">Full-stack platform with Django backend, React frontend, and Telegram bot integration</p>
-      <p align="center">
-        <img src="https://img.shields.io/badge/Django-4.2-092E20?style=flat&logo=django" alt="Django"/>
-        <img src="https://img.shields.io/badge/React-18-61DAFB?style=flat&logo=react" alt="React"/>
-        <img src="https://img.shields.io/badge/DRF-REST-092E20?style=flat" alt="DRF"/>
-        <img src="https://img.shields.io/badge/Telegram-Bot-26A5E4?style=flat&logo=telegram" alt="Telegram"/>
-      </p>
-    </td>
+    <td width="50%"></td>
   </tr>
 </table>
 
@@ -163,6 +139,39 @@
         <img src="https://img.shields.io/badge/Supabase-2.57-3FCF8E?style=flat&logo=supabase" alt="Supabase"/>
         <img src="https://img.shields.io/badge/Recharts-3.2-FF6B6B?style=flat" alt="Recharts"/>
         <img src="https://img.shields.io/badge/Tailwind_CSS-3.4-06B6D4?style=flat&logo=tailwindcss" alt="Tailwind"/>
+      </p>
+    </td>
+  </tr>
+</table>
+
+### 🌐 Other Projects
+
+<table>
+  <tr>
+    <td width="50%">
+      <h3 align="center">Priime General Contractor (CMS)</h3>
+      <p align="center">High-end professional construction company CMS website with architectural photography, modern structural design, parallax effects, and video hero</p>
+      <p align="center">
+        <img src="https://img.shields.io/badge/React-19.2.3-61DAFB?style=flat&logo=react" alt="React"/>
+        <img src="https://img.shields.io/badge/TypeScript-5.8.2-3178C6?style=flat&logo=typescript" alt="TypeScript"/>
+        <img src="https://img.shields.io/badge/Tailwind_CSS-CDN-06B6D4?style=flat&logo=tailwindcss" alt="Tailwind"/>
+        <img src="https://img.shields.io/badge/Vite-6.2.0-646CFF?style=flat&logo=vite" alt="Vite"/>
+        <img src="https://img.shields.io/badge/Lucide-Icons-FF6B6B?style=flat" alt="Lucide"/>
+      </p>
+      <p align="center">
+        <a href="https://priimecontractor.com/" target="_blank">
+          <img src="https://img.shields.io/badge/Live-Site-00C853?style=flat" alt="Live Site"/>
+        </a>
+      </p>
+    </td>
+    <td width="50%">
+      <h3 align="center">CSF Digital Doorway</h3>
+      <p align="center">Full-stack platform with Django backend, React frontend, and Telegram bot integration</p>
+      <p align="center">
+        <img src="https://img.shields.io/badge/Django-4.2-092E20?style=flat&logo=django" alt="Django"/>
+        <img src="https://img.shields.io/badge/React-18-61DAFB?style=flat&logo=react" alt="React"/>
+        <img src="https://img.shields.io/badge/DRF-REST-092E20?style=flat" alt="DRF"/>
+        <img src="https://img.shields.io/badge/Telegram-Bot-26A5E4?style=flat&logo=telegram" alt="Telegram"/>
       </p>
     </td>
   </tr>
@@ -275,14 +284,27 @@
 ## 📫 Connect with me
 
 <p align="left">
+  <a href="https://t.me/bereketrezenom" target="blank">
+    <img align="center" src="https://img.shields.io/badge/Telegram-@bereketrezenom-26A5E4?style=flat&logo=telegram" alt="Telegram" height="30"/>
+  </a>
+  <a href="https://www.linkedin.com/in/bereketrezenom" target="blank">
+    <img align="center" src="https://img.shields.io/badge/LinkedIn-bereketrezenom-0A66C2?style=flat&logo=linkedin" alt="LinkedIn" height="30"/>
+  </a>
   <a href="https://twitter.com/beckybaaaa" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="beckybaaaa" height="30" width="40" />
+    <img align="center" src="https://img.shields.io/badge/Twitter-@beckybaaaa-1DA1F2?style=flat&logo=twitter" alt="Twitter" height="30"/>
   </a>
   <a href="https://instagram.com/beki_ba3" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="beki_ba3" height="30" width="40" />
+    <img align="center" src="https://img.shields.io/badge/Instagram-@beki_ba3-E4405F?style=flat&logo=instagram" alt="Instagram" height="30"/>
   </a>
-  <a href="https://linkedin.com/in/bereketrezenom" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin" height="30" width="40" />
+</p>
+
+---
+
+## 🌐 Portfolio & CMS
+
+<p align="center">
+  <a href="https://bereketrezenom.vercel.app/" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio_CMS-bereketrezenom.vercel.app-00C853?style=for-the-badge&logo=vercel" alt="Portfolio CMS"/>
   </a>
 </p>
 
